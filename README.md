@@ -1,7 +1,7 @@
 
 # Hi, I'm Taha! 👋[![portfolio](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t_dellii/)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-delshadi/)
 
-I'm a front end developer. I started my career 3 years ago with JavaScript and TypeScript language. I have focused deeply on the front-end environment and working with tools such as React.js , Redux.js , Next.js .
+I'm a front end developer. I started my career 5 years ago with JavaScript and TypeScript language. I have focused deeply on the front-end environment and working with tools such as React.js , Next.js .
 
 ## 💻 Skills:
 |Skills|Selected Programming Languages and Libraries|
